@@ -1,51 +1,70 @@
 'use client'
-import { useState } from 'react';
-import Modal from './components/Modal'; // Ensure this path is correct
-import { FaTwitter, FaInstagram, FaGithub, FaLinkedinIn } from 'react-icons/fa'; // Example icons from react-icons
+import React, { useState } from 'react';
+import Schedule from '../app/components/schedule'; // Make sure to create this component
+import Standings from '../app/components/standings'; // Make sure to create this component
+import Link from 'next/link';
 
 const Home: React.FC = () => {
-  const [modalOpen, setModalOpen] = useState<boolean>(false);
+  const [currentView, setCurrentView] = useState<'schedule' | 'standings' | ''>('');
   const [selectedSport, setSelectedSport] = useState<string | null>(null);
-  const sports: string[] = ['Cricket', 'Football', 'Volleyball', 'Tennis', 'Tug of War'];
+  const sports = ['Cricket', 'Football', 'Volleyball', 'Tennis', 'Tug of War'];
 
-  const openModal = (sport: string) => {
+  const handleOpenView = (sport: string, view: 'schedule' | 'standings') => {
     setSelectedSport(sport);
-    setModalOpen(true);
+    setCurrentView(view);
+  };
+
+  const handleClose = () => {
+    setCurrentView('');
+    setSelectedSport(null);
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-gray-700 via-gray-900 to-black">
-      <div className="text-center">
-        <div className="mb-6">
-          {/* Logo and Title */}
-          <img src="/logo.png" alt="Logo" className="mx-auto mb-4" style={{ width: '100px' }} />
-          <h1 className="text-white text-5xl font-bold mb-2">nxtLnk</h1>
-          <p className="text-gray-300 mb-4">Custom bio links for creatives who love coding.</p>
-        </div>
-
-        {/* Social Icons */}
-        <div className="flex justify-center space-x-4 mb-6">
-          <FaTwitter className="text-white text-2xl cursor-pointer" />
-          <FaInstagram className="text-white text-2xl cursor-pointer" />
-          <FaGithub className="text-white text-2xl cursor-pointer" />
-          <FaLinkedinIn className="text-white text-2xl cursor-pointer" />
-        </div>
-
-        {/* Action Buttons */}
-        {sports.map((sport, index) => (
-          <div key={index} className="mb-4">
-            <button onClick={() => openModal(sport)} className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
-<span className="relative px-5 py-2.5 transition-all ease-in duration-75 border-l-orange-700 dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
-{sport}
-</span>
-</button>
-           
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+      <h1 className="text-4xl font-bold text-gray-800 mb-10">Flavium</h1>
+      <Link legacyBehavior href="/teams">
+      <a className="text-4xl font-bold text-gray-800 mb-10">Meet the team</a>
+      </Link>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+        {sports.map((sport) => (
+          <div key={sport} className="bg-white shadow-md rounded-lg p-6">
+            <h2 className="text-2xl font-semibold text-gray-700">{sport}</h2>
+            <div className="mt-4">
+              <button
+                className="bg-blue-500 text-white py-2 px-4 rounded mr-2 hover:bg-blue-600"
+                onClick={() => handleOpenView(sport, 'schedule')}
+              >
+                Today's Schedule
+              </button>
+              <button
+                className="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600"
+                onClick={() => handleOpenView(sport, 'standings')}
+              >
+                Standings
+              </button>
+            </div>
           </div>
         ))}
-
-        {/* Modal */}
-        {modalOpen && <Modal sport={selectedSport || ''} onClose={() => setModalOpen(false)} />}
       </div>
+
+      {currentView && selectedSport && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
+          <div className="bg-white p-5 rounded-lg shadow-xl">
+            <h3 className="text-xl font-bold">{selectedSport} {currentView === 'schedule' ? "Schedule" : "Standings"}</h3>
+            {currentView === 'schedule' ? (
+              <Schedule sport={selectedSport} />
+            ) : (
+              <Standings sport={selectedSport} />
+            )}
+            <button
+              className="mt-4 bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600"
+              onClick={handleClose}
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
