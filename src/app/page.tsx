@@ -1,8 +1,8 @@
 'use client'
 import React, { useState } from 'react';
-import Schedule from '../app/components/schedule'; // Make sure to create this component
-import Standings from '../app/components/standings'; // Make sure to create this component
-import Link from 'next/link';
+import Schedule from './components/schedule';
+import Standings from './components/standings';
+
 
 const Home: React.FC = () => {
   const [currentView, setCurrentView] = useState<'schedule' | 'standings' | ''>('');
@@ -22,11 +22,7 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       <h1 className="text-4xl font-bold text-gray-800 mb-10">Flavium</h1>
-      <Link legacyBehavior href='/teams'>
-      <a className="text-lg font-bold text-blue-500 hover:underline mb-10">
-        Meet the Team
-      </a>
-      </Link>
+     
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
         {sports.map((sport) => (
           <div key={sport} className="bg-white shadow-md rounded-lg p-6">
