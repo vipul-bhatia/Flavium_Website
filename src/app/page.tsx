@@ -22,8 +22,10 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       <h1 className="text-4xl font-bold text-gray-800 mb-10">Flavium</h1>
-      <Link legacyBehavior href="/teams">
-      <a className="text-4xl font-bold text-gray-800 mb-10">Meet the team</a>
+      <Link legacyBehavior href='/teams'>
+      <a className="text-lg font-bold text-blue-500 hover:underline mb-10">
+        Meet the Team
+      </a>
       </Link>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
         {sports.map((sport) => (
