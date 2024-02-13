@@ -5,30 +5,30 @@
         "date": "2024-01-29",
         "team1": "Team A",
         "team2": "Team B",
-        "location": "Stadium 1"
+        "timing": "Timing 1"
       },
       {
         "id": 2,
         "date": "2024-01-30",
         "team1": "Team C",
         "team2": "Team D",
-        "location": "Stadium 2"
+        "timing": "Timing 2"
       }
     ],
     "standings": [
       {
         "id": 1,
-        "name": "Team A",
-        "wins": 10,
-        "losses": 2,
-        "points": 20
+        "date": "2024-01-29",
+        "team1": "Team A",
+        "team2": "Team B",
+        "Winner": "TeamA"
       },
       {
         "id": 2,
-        "name": "Team B",
-        "wins": 8,
-        "losses": 4,
-        "points": 16
+        "date": "2024-01-30",
+        "team1": "Team C",
+        "team2": "Team D",
+        "Winner": "TeamD"
       }
     ]
   }

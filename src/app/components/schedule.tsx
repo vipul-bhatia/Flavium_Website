@@ -5,7 +5,7 @@ interface Match {
     date: string;
     team1: string;
     team2: string;
-    location: string;
+   timing : string;
 }
 
 const Schedule = ({ sport }: { sport: string }) => {
@@ -26,7 +26,7 @@ const Schedule = ({ sport }: { sport: string }) => {
           <tr> 
             <th className="px-4 py-2 text-left text-gray-600">Date</th>
             <th className="px-4 py-2 text-left text-gray-600">Match</th>
-            <th className="px-4 py-2 text-left text-gray-600">Location</th>
+            <th className="px-4 py-2 text-left text-gray-600">Timing</th>
           </tr>
         </thead>
         <tbody>
@@ -34,7 +34,7 @@ const Schedule = ({ sport }: { sport: string }) => {
             <tr className={`hover:bg-gray-100 ${index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`}>
               <td className="border px-4 py-2 text-gray-700">{match.date}</td>
               <td className="border px-4 py-2 text-gray-700">{match.team1} vs {match.team2}</td>
-              <td className="border px-4 py-2 text-gray-700">{match.location}</td>
+              <td className="border px-4 py-2 text-gray-700">{match.timing}</td>
             </tr>
           ))}
         </tbody>
