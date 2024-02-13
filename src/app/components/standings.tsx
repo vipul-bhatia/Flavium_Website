@@ -20,7 +20,7 @@ const Standings = ({ sport }: { sport: string }) => {
 
 return (
   <div className="overflow-x-auto">
-    <h2 className="text-2xl font-semibold text-gray-800 mb-4">Today's Schedule for {sport}</h2>
+    <h2 className="text-2xl font-semibold text-gray-800 mb-4">Today's Standings for {sport}</h2>
     <table className="min-w-full table-auto">
       <thead className="bg-gray-200">
         <tr> 
