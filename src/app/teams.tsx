@@ -19,7 +19,6 @@ const Teams = () => {
     { id: 14, name: 'Core', location: 'MBA Tech', imageUrl: '/14.JPG' },
     { id: 15, name: 'Core', location: 'MBA Tech', imageUrl: '/15.JPG' },
     { id: 16, name: 'Core', location: 'MBA Tech', imageUrl: '/16.JPG' },
-    // Add more teams as needed
   ];
 
   return (
