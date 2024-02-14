@@ -3,14 +3,13 @@ import React from 'react';
 const Teams = () => {
   // Example teams data, replace this with your actual data source
   const teams = [
-    { id: 1, name: 'Core', location: 'MBA Tech', imageUrl: '/1.JPG' },
+    { id: 1, name: 'Core', location: 'MBA Tech', imageUrl: '/8.JPG' },
     { id: 2, name: 'Core', location: 'MBA Tech', imageUrl: '/2.JPG' },
     { id: 3, name: 'Core', location: 'MBA Tech', imageUrl: '/3.JPG' },
     { id: 4, name: 'Core', location: 'MBA Tech', imageUrl: '/4.JPG' },
     { id: 5, name: 'Core', location: 'MBA Tech', imageUrl: '/5.JPG' },
     { id: 6, name: 'Core', location: 'MBA Tech', imageUrl: '/6.JPG' },
     { id: 7, name: 'Core', location: 'MBA Tech', imageUrl: '/7.JPG' },
-    { id: 8, name: 'Core', location: 'MBA Tech', imageUrl: '/8.JPG' },
     { id: 9, name: 'Core', location: 'MBA Tech', imageUrl: '/9.JPG' },
     { id: 10, name: 'Core', location: 'MBA Tech', imageUrl: '/10.JPG' },
     { id: 11, name: 'Core', location: 'MBA Tech', imageUrl: '/11.JPG' },
@@ -22,10 +21,10 @@ const Teams = () => {
   ];
 
   return (
-    <div className="overflow-auto max-h-[80vh] p-4 bg-white rounded-lg shadow-xl">
+    <div className="overflow-auto max-h-[80vh] p-4 bg-gray-500 rounded-lg shadow-xl">
       <div className="sm:text-center">
-        <h2 className="text-2xl font-bold text-gray-900">
-          Teams
+        <h2 className="text-2xl font-bold cente text-white">
+          TEAM
         </h2>
       </div>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 mt-4">
