@@ -1,18 +1,25 @@
 {
     "schedule": [
-      {
+     {
         "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "timing": "Timing 1"
+        "date": "19/02/2024",
+        "team1": "Riya Punjabi",
+        "team2": "Rashi Rai",
+        "timing": "7:30PM - 8:00PM"
       },
       {
         "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "timing": "Timing 2"
+        "date": "19/02/2024",
+        "team1": "Ansh & Surve",
+        "team2": "Takshil & Ayush",
+        "timing": "8:00PM - 8:30PM"
+      },
+          {
+        "id": 3,
+        "date": "19/02/2024",
+        "team1": "Riju Patidar",
+        "team2": "Gunamrutha Kode",
+        "timing": "7:30PM - 8:00PM"
       }
     ],
     "standings": [
