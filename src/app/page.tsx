@@ -39,7 +39,7 @@ const Home: React.FC = () => {
         className="mb-4 bg-red-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
         onClick={handleShowTeams}
       >
-      OUR TEAM
+      Fixtures
       </button>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
