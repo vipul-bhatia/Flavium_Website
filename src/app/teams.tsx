@@ -3,21 +3,21 @@ import React from 'react';
 const Teams = () => {
   // Example teams data, replace this with your actual data source
   const teams = [
-    { id: 1, name: 'Core', location: 'MBA Tech', imageUrl: '/8.JPG' },
-    { id: 2, name: 'Core', location: 'MBA Tech', imageUrl: '/2.JPG' },
+    { id: 1, name: 'Head', location: 'MBA Tech', imageUrl: '/8.JPG' },
+    { id: 2, name: 'Head', location: 'MBA Tech', imageUrl: '/2.JPG' },
     { id: 3, name: 'Core', location: 'MBA Tech', imageUrl: '/3.JPG' },
     { id: 4, name: 'Core', location: 'MBA Tech', imageUrl: '/4.JPG' },
     { id: 5, name: 'Core', location: 'MBA Tech', imageUrl: '/5.JPG' },
-    { id: 6, name: 'Core', location: 'MBA Tech', imageUrl: '/6.JPG' },
-    { id: 7, name: 'Core', location: 'MBA Tech', imageUrl: '/7.JPG' },
-    { id: 9, name: 'Core', location: 'MBA Tech', imageUrl: '/9.JPG' },
+    { id: 6, name: 'Core', location: 'B Tech', imageUrl: '/6.JPG' },
+    { id: 7, name: 'Core', location: 'B Tech', imageUrl: '/7.JPG' },
+    { id: 9, name: 'Core', location: 'B Tech', imageUrl: '/9.JPG' },
     { id: 10, name: 'Core', location: 'MBA Tech', imageUrl: '/10.JPG' },
     { id: 11, name: 'Core', location: 'MBA Tech', imageUrl: '/11.JPG' },
     { id: 12, name: 'Core', location: 'MBA Tech', imageUrl: '/12.JPG' },
-    { id: 13, name: 'Core', location: 'MBA Tech', imageUrl: '/13.JPG' },
+    { id: 13, name: 'Core', location: 'B Tech', imageUrl: '/13.JPG' },
     { id: 14, name: 'Core', location: 'MBA Tech', imageUrl: '/14.JPG' },
-    { id: 15, name: 'Core', location: 'MBA Tech', imageUrl: '/15.JPG' },
-    { id: 16, name: 'Core', location: 'MBA Tech', imageUrl: '/16.JPG' },
+    { id: 15, name: 'Core', location: 'B Tech', imageUrl: '/15.JPG' },
+    { id: 16, name: 'Core', location: 'B Tech', imageUrl: '/16.JPG' },
   ];
 
   return (
