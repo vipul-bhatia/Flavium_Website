@@ -2,17 +2,24 @@
     "schedule": [
       {
         "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "timing": "Timing 1"
+        "date": "19th Feb",
+        "team1": "Girls BTech 3rd yr",
+        "team2": "Girls 2nd yr Team-1",
+        "timing": "6:30-7:15"
       },
       {
         "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "timing": "Timing 2"
+        "date": "19th Feb",
+        "team1": "Boys MBA.Tech 3rd yr",
+        "team2": "Boys BTech IT 1st yr",
+        "timing": "6:30-7:15"
+      },
+        {
+        "id": 3,
+        "date": "19th Feb",
+        "team1": "Boys BTech CS 2rd yr",
+        "team2": "Boys BTech AIML 3rd yr",
+        "timing": "6:30-7:15"
       }
     ],
     "standings": [
