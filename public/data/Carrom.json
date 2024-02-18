@@ -2,10 +2,10 @@
     "schedule": [
       {
         "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "timing": "Timing 1"
+        "date": "19/02/2024",
+        "team1": "Aayush Suthar",
+        "team2": "Manth Patel",
+        "timing": "6PM - 9PM"
       },
       {
         "id": 2,
