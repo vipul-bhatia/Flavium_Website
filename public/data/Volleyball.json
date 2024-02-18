@@ -2,16 +2,16 @@
     "schedule": [
       {
         "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
+        "date": "2024-01-19",
+        "team1": "BTech-CE 3rd year",
+        "team2": "BTech-AIML 1st year",
         "timing": "Timing 1"
       },
       {
         "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
+        "date": "2024-01-19",
+        "team1": "BTech-CS 2rd year",
+        "team2": "BTech-CS 1rd year",
         "timing": "Timing 2"
       }
     ],
