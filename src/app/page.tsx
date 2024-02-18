@@ -39,7 +39,7 @@ const Home: React.FC = () => {
         className="mb-4 bg-red-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
         onClick={handleShowTeams}
       >
-      Fixtures
+      Our Team
       </button>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
@@ -51,7 +51,7 @@ const Home: React.FC = () => {
                 className="bg-red-600 text-white py-2 px-4 rounded mr-2 hover:bg-blue-600"
                 onClick={() => handleOpenView(sport, 'schedule')}
               >
-                Today's Schedule
+                Fixtures
               </button>
               <button
                 className="bg-black text-white py-2 px-4 rounded hover:bg-green-600"
