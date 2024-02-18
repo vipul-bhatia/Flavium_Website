@@ -5,14 +5,14 @@
         "date": "2024-01-19",
         "team1": "BTech-CE 3rd year",
         "team2": "BTech-AIML 1st year",
-        "timing": "Timing 1"
+        "timing": "7:00-9:00pm"
       },
       {
         "id": 2,
         "date": "2024-01-19",
         "team1": "BTech-CS 2nd year",
         "team2": "BTech-CS 1rd year",
-        "timing": "Timing 2"
+        "timing": "7:00-9:00pm"
       }
     ],
     "standings": [
