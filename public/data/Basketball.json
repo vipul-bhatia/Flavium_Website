@@ -2,17 +2,10 @@
     "schedule": [
       {
         "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "timing": "Timing 1"
-      },
-      {
-        "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "timing": "Timing 2"
+        "date": "19/02/2024",
+        "team1": "Boys MBA.Tech CE 2nd yr",
+        "team2": "Boys BTech CE 2nd yr",
+        "timing": "7PM - 8PM"
       }
     ],
     "standings": [
