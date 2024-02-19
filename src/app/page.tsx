@@ -15,7 +15,7 @@ const Home: React.FC = () => {
 
   const [currentView, setCurrentView] = useState<'schedule' | 'standings' | ''>('');
   const [selectedSport, setSelectedSport] = useState<string | null>(null);
-  const sports = ['Cricket', 'Volleyball','Basketball','Football','Tug of War','Badminton','Athletics','Table Tennis','Lawn Tennis','Swimming','Chess','Carrom','Gym-Events'];
+  const sports = ['Cricket', 'Volleyball','Basketball','Football','Tug of War','Badminton','Athletics','Table Tennis','Lawn Tennis','Swimming','Chess','Carrom','Gym-Events','Box Cricket'];
 
   const handleOpenView = (sport: string, view: 'schedule' | 'standings') => {
     setSelectedSport(sport);
