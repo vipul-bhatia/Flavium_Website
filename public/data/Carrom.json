@@ -2,74 +2,176 @@
     "schedule": [
       {
         "id": 1,
-        "date": "19/02/2024",
-        "team1": "Aayush Suthar",
-        "team2": "Manth Patel",
+        "date": "20/02/2024",
+        "team1": "Harsh Salunke",
+        "team2": "Yash Budhia",
         "timing": "6PM - 9PM"
       },
            {
         "id": 2,
-        "date": "19/02/2024",
-        "team1": "Charyan Sharma",
-        "team2": "Ivan Jospeh",
+        "date": "20/02/2024",
+        "team1": "MR Nishant",
+        "team2": "Irbaaz Patel",
         "timing": "6PM - 9PM"
       },
               {
         "id": 3,
-        "date": "19/02/2024",
-        "team1": "Paris Asegaokar",
-        "team2": "Harshit Shah",
+        "date": "20/02/2024",
+        "team1": "Yash Patil",
+        "team2": "kshitij Kumar",
         "timing": "6PM - 9PM"
       },
               {
         "id": 4,
-        "date": "19/02/2024",
-        "team1": "Nakul Patil",
-        "team2": "Tanishq Rajpal",
+        "date": "20/02/2024",
+        "team1": "Dhruv Panchal",
+        "team2": "Sujal Mangal",
         "timing": "6PM - 9PM"
       },
               {
         "id": 5,
-        "date": "19/02/2024",
-        "team1": "Mangesh Chavan",
-        "team2": "Ritvik",
+        "date": "20/02/2024",
+        "team1": "Anmol Patil",
+        "team2": "Sanat Pareek",
         "timing": "6PM - 9PM"
       },
               {
         "id": 6,
-        "date": "19/02/2024",
-        "team1": "Tanishq Nandwana",
-        "team2": "Dhruvil Makadia",
+        "date": "20/02/2024",
+        "team1": "Amol Wagh",
+        "team2": "Vansh Jhulka",
         "timing": "6PM - 9PM"
       },
               {
         "id": 7,
-        "date": "19/02/2024",
-        "team1": "Yanshu Baria",
-        "team2": "Akshat Jain",
+        "date": "20/02/2024",
+        "team1": "Tanishq Sharma",
+        "team2": "Ashutosh Singh",
         "timing": "6PM - 9PM"
       },
               {
         "id": 8,
-        "date": "19/02/2024",
-        "team1": "Varun Dasari",
-        "team2": "Vaidik Nandwana",
+        "date": "20/02/2024",
+        "team1": "Amit Upadhyay",
+        "team2": "Om Patil",
         "timing": "6PM - 9PM"
       },
               {
         "id": 9,
-        "date": "19/02/2024",
-        "team1": "Lavesh Patil",
-        "team2": "Aditya Rajput",
+        "date": "20/02/2024",
+        "team1": "Vipul Bhatia",
+        "team2": "Mukund Rajpurohit",
         "timing": "6PM - 9PM"
       },
               {
         "id": 10,
+        "date": "20/02/2024",
+        "team1": "Owais Bubere",
+        "team2": "Devansh Agarwal",
+        "timing": "6PM - 9PM"
+      },
+      {
+        "id": 11,
+        "date": "20/02/2024",
+        "team1": "Om Shah",
+        "team2": "Mansoor",
+        "timing": "6PM - 9PM"
+      },
+      {
+        "id": 12,
+        "date": "20/02/2024",
+        "team1": "Krish Juneja",
+        "team2": "Aryan Joshi",
+        "timing": "6PM - 9PM"
+      },
+      {
+        "id": 13,
+        "date": "20/02/2024",
+        "team1": "Sujal Pamula",
+        "team2": "Pratham Bagora",
+        "timing": "6PM - 9PM"
+      },
+      {
+        "id": 14,
+        "date": "20/02/2024",
+        "team1": "Mangesh Chavan",
+        "team2": "Ritvik",
+        "timing": "6PM - 9PM"
+      },
+      {
+        "id": 15,
+        "date": "20/02/2024",
+        "team1": "Varun Dasari",
+        "team2": "Vaidik Nandwana",
+        "timing": "6PM - 9PM"
+      }
+    ],
+    "standings": [
+      {
+        "id": 1,
+        "date": "19/02/2024",
+        "team1": "Aayush Suthar",
+        "team2": "Manth Patel",
+        "Winner": "Manth Patel" 
+      },
+      {
+        "id": 2,
+        "date": "19/02/2024",
+        "team1": "Charyan Sharma",
+        "team2": "Ivan Joseph",
+        "Winner": "Ivan Joseph"
+      },
+      {
+        "id": 3,
+        "date": "19/02/2024",
+        "team1": "Paris Asegaokar",
+        "team2": "Harshit Shah",
+        "Winner": "Harshit Shah"
+      },
+      {
+        "id": 4,
+        "date": "19/02/2024",
+        "team1": "Pranamya Wadin",
+        "team2": "Ram",
+        "Winner": "Ram"
+      },
+      {
+        "id": 5,
+        "date": "19/02/2024",
+        "team1": "Tansishq Nandwana",
+        "team2": "Pradhum",
+        "Winner": "Tansishq Nandwana"
+      },
+      {
+        "id": 6,
+        "date": "19/02/2024",
+        "team1": "Yanshu Baria",
+        "team2": "Akshat Jain",
+        "Winner": "Yanshu Baria"
+      },
+      {
+        "id": 7,
+        "date": "19/02/2024",
+        "team1": "Akshat Sethia",
+        "team2": "Vivek Jain",
+        "Winner": "Vivek Jain"
+      },
+      {
+        "id": 8,
+        "date": "19/02/2024",
+        "team1": "Lavesh Patil",
+        "team2": "Aditya Rajput",
+        "Winner": "Lavesh Patil"
+      },
+      {
+        "id": 9,
         "date": "19/02/2024",
         "team1": "Kunj Desai",
         "team2": "Abhijit Patil",
-        "timing": "6PM - 9PM"
+        "Winner": "Kunj Desai"
       }
+      
+        
     ]
   }
   

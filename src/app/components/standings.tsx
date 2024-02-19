@@ -5,7 +5,7 @@ interface StandingsProps {
     date: string;
     team1: string;
     team2: string;
-    winner: string; // Assuming there is a 'winner' field in your data
+    Winner: string; // Assuming there is a 'winner' field in your data
 }
 
 const Standings = ({ sport }: { sport: string }) => {
@@ -46,7 +46,7 @@ const Standings = ({ sport }: { sport: string }) => {
                                 <tr className={`hover:bg-gray-100 ${match.id % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} key={match.id}>
                                     <td className="border px-4 py-2 text-gray-700">{match.date}</td>
                                     <td className="border px-4 py-2 text-gray-700">{match.team1} vs {match.team2}</td>
-                                    <td className="border px-4 py-2 text-gray-700">{match.winner}</td>
+                                    <td className="border px-4 py-2 text-gray-700">{match.Winner}</td>
                                 </tr>
                             ))}
                         </tbody>
