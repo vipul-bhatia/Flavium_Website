@@ -10,10 +10,52 @@
 
       {
         "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "timing": "Timing 2"
+        "date": "19/02/2024",
+        "team1": "Kavya Bhargava",
+        "team2": "Ayush Sonawane",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 3,
+        "date": "19/02/2024",
+        "team1": "OM Shah",
+        "team2": "Abhijeet Borse",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 4,
+        "date": "19/02/2024",
+        "team1": "Ajmal Parkar",
+        "team2": "Rehan Singhal",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 5,
+        "date": "19/02/2024",
+        "team1": "Jash",
+        "team2": "Ridhaan Bharadwaj",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 6,
+        "date": "19/02/2024",
+        "team1": "Vaibhav Gujrathi",
+        "team2": "Piyush Pandey",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 7,
+        "date": "19/02/2024",
+        "team1": "Aaditya Ghatia",
+        "team2": "Soham Lashkary",
+        "timing": "6:45PM - 8:00PM"
+      },
+      {
+        "id": 8,
+        "date": "19/02/2024",
+        "team1": "Vaibhav Tayal",
+        "team2": "Amit Upadhyay",
+        "timing": "6:45PM - 8:00PM"
       }
     ],
     "standings": [
