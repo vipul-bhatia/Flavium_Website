@@ -4,56 +4,56 @@
         "id": 1,
         "date": "19/02/2024",
         "team1": "Devarsh Choksi",
-        "team2": "Yash Patel",
+        "team2": "Kavya Bhargava",
         "timing": "6:45PM - 8:00PM"
       },
 
       {
         "id": 2,
         "date": "19/02/2024",
-        "team1": "Kavya Bhargava",
+        "team1": "Yash Patel",
         "team2": "Ayush Sonawane",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 3,
         "date": "19/02/2024",
-        "team1": "OM Shah",
-        "team2": "Abhijeet Borse",
+        "team1": "Jash",
+        "team2": "Vaibhav Gujrathi",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 4,
         "date": "19/02/2024",
-        "team1": "Ajmal Parkar",
-        "team2": "Rehan Singhal",
+        "team1": "Ridhaan Bharadwaj",
+        "team2": "Piyush Pandey",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 5,
         "date": "19/02/2024",
-        "team1": "Jash",
-        "team2": "Ridhaan Bharadwaj",
+        "team1": "OM Shah",
+        "team2": "Ajmal Parkar",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 6,
         "date": "19/02/2024",
-        "team1": "Vaibhav Gujrathi",
-        "team2": "Piyush Pandey",
+        "team1": "Abhijeet Borse",
+        "team2": "Rehan Singhal",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 7,
         "date": "19/02/2024",
         "team1": "Aaditya Ghatia",
-        "team2": "Soham Lashkary",
+        "team2": "Vaibhav Tayal",
         "timing": "6:45PM - 8:00PM"
       },
       {
         "id": 8,
         "date": "19/02/2024",
-        "team1": "Vaibhav Tayal",
+        "team1": "Soham Lashkary",
         "team2": "Amit Upadhyay",
         "timing": "6:45PM - 8:00PM"
       }
