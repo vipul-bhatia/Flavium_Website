@@ -105,6 +105,99 @@
         "team2": "Amrit Raj",
         "timing": "6PM - 9PM"
       }
+    ],
+    "standings": [
+      {
+        "id": 1,
+        "date": "19/02/2024",
+        "team1": "Aditya Shaju",
+        "team2": "Jash Desai",
+        "Winner": "Jash Desai" 
+      },
+      {
+        "id": 2,
+        "date": "19/02/2024",
+        "team1": "Vaibhav Gujrati",
+        "team2": "Mrinal Verma",
+        "Winner": "Mrinal Verma" 
+      },
+      {
+        "id": 3,
+        "date": "19/02/2024",
+        "team1": "Punyak Chaturvedi",
+        "team2": "Aditya Ghatia",
+        "Winner": "Aditya Ghatia" 
+      },
+      {
+        "id": 4,
+        "date": "19/02/2024",
+        "team1": "Rushikesh Gughe",
+        "team2": "Amit Upadhyay",
+        "Winner": "Amit Upadhyay" 
+      },
+      {
+        "id": 5,
+        "date": "19/02/2024",
+        "team1": "Pranav Diwan",
+        "team2": "Param Joshi",
+        "Winner": "Param Joshi" 
+      },
+      {
+        "id": 6,
+        "date": "19/02/2024",
+        "team1": "Manav Goyal",
+        "team2": "Aryan Baheti",
+        "Winner": "Manav Goyal" 
+      },
+      {
+        "id": 7,
+        "date": "19/02/2024",
+        "team1": "Utkarsh",
+        "team2": "Mihir Patil",
+        "Winner": "Utkarsh" 
+      },
+      {
+        "id": 8,
+        "date": "19/02/2024",
+        "team1": "Bhargav",
+        "team2": "Owais Bubere",
+        "Winner": "Bhargav" 
+      },
+      {
+        "id": 9,
+        "date": "19/02/2024",
+        "team1": "Aditya Patil",
+        "team2": "Dhyan Joshi",
+        "Winner": "Aditya Patil" 
+      },
+      {
+        "id": 10,
+        "date": "19/02/2024",
+        "team1": "Aryan Khandelwal",
+        "team2": "Harshit Shah",
+        "Winner": "Aryan Khandelwal" 
+      },
+      {
+        "id": 11,
+        "date": "19/02/2024",
+        "team1": "Neel Patil",
+        "team2": "Manan Chhajed",
+        "Winner": "Neel Patil" 
+      },
+      {
+        "id": 12,
+        "date": "19/02/2024",
+        "team1": "Swet Singh",
+        "team2": "Abeer Nair",
+        "Winner": "Abeer Nair" 
+      },
+      {
+        "id": 13,
+        "date": "19/02/2024",
+        "team1": "Yash Bhandari",
+        "team2": "Amrit Raj",
+        "Winner": "Amrit Raj" 
+      }
     ]
   }
   

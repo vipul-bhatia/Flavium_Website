@@ -2,18 +2,60 @@
     "schedule": [
      {
         "id": 1,
-        "date": "19/02/2024",
-        "team1": "Riya Punjabi",
-        "team2": "Rashi Rai",
-        "timing": "7:30PM - 8:00PM"
+        "date": "20/02/2024",
+        "team1": "Ansh & Surve",
+        "team2": "Takshil & Ayush",
+        "timing": "6:00PM - 9:00PM"
       },
 
-          {
+        {
         "id": 2,
-        "date": "19/02/2024",
-        "team1": "Riju Patidar",
-        "team2": "Gunamrutha Kode",
-        "timing": "7:30PM - 8:00PM"
+        "date": "20/02/2024",
+        "team1": "Rashi Rai",
+        "team2": "Vanshika Jhala",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 3,
+        "date": "20/02/2024",
+        "team1": "Srikar Molahalli",
+        "team2": "Vansh Bansal",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 4,
+        "date": "20/02/2024",
+        "team1": "Vedant & Aryan KhandekwaK",
+        "team2": "Krishna & Kunj",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 5,
+        "date": "20/02/2024",
+        "team1": "Harsh & Atharv",
+        "team2": "Arnab & Rishi",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 6,
+        "date": "20/02/2024",
+        "team1": "Vaibhav & Bhavya",
+        "team2": "Ansh Gupta & Ayush",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 7,
+        "date": "20/02/2024",
+        "team1": "Yash ",
+        "team2": "Ronit Gandhi",
+        "timing": "6:00PM - 9:00PM"
+      },
+      {
+        "id": 8,
+        "date": "20/02/2024",
+        "team1": "Atharv",
+        "team2": "Mohit Patil",
+        "timing": "6:00PM - 9:00PM"
       }
     ]
   }
