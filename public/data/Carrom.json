@@ -70,22 +70,6 @@
         "team2": "Abhijit Patil",
         "timing": "6PM - 9PM"
       }
-    ],
-    "standings": [
-      {
-        "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "Winner": "TeamA"
-      },
-      {
-        "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "Winner": "TeamD"
-      }
     ]
   }
   

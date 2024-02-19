@@ -70,22 +70,6 @@
         "team2": "Ajaml Parkar",
         "timing": "7:15PM - 9:00PM"
       }
-    ],
-    "standings": [
-      {
-        "id": 1,
-        "date": "2024-01-29",
-        "team1": "Team A",
-        "team2": "Team B",
-        "Winner": "TeamA"
-      },
-      {
-        "id": 2,
-        "date": "2024-01-30",
-        "team1": "Team C",
-        "team2": "Team D",
-        "Winner": "TeamD"
-      }
     ]
   }
   
