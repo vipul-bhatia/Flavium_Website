@@ -19,7 +19,7 @@ const Schedule = ({ sport }: { sport: string }) => {
     }, [sport]);
 
   return (
-    <div className="overflow-x-auto">
+    <div className="overflow-auto" style={{ maxHeight: '500px' }}>
       <h2 className="text-2xl font-semibold text-gray-800 mb-4">Today's Schedule for {sport}</h2>
       <table className="min-w-full table-auto">
         <thead className="bg-gray-200">
