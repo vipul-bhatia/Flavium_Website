@@ -66,6 +66,7 @@ const Home: React.FC = () => {
       <br />
 
       <a href='https://www.instagram.com/flavium.2024?igsh=MXFlejd2eWc5amlkeQ==' className='text-red-600 font-bold'>@flavium.2024</a>
+      <a href='https://www.instagram.com/flavium.2024?igsh=MXFlejd2eWc5amlkeQ==' className='text-red-600 font-bold'>Made By Vipul Bhatia</a>
       <br />
 
       {showTeamsPopup && (
