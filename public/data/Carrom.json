@@ -2,65 +2,65 @@
     "schedule": [
       {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Harsh Salunke",
-        "team2": "Yash Budhia",
+        "date": "21/02/2024",
+        "team1": "Krish/Paris",
+        "team2": "Arjun/Viraj",
         "timing": "6PM - 9PM"
       },
            {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "MR Nishant",
-        "team2": "Irbaaz Patel",
+        "date": "21/02/2024",
+        "team1": "Varun/Sujal",
+        "team2": "Akash/Sanat",
         "timing": "6PM - 9PM"
       },
               {
         "id": 3,
-        "date": "20/02/2024",
-        "team1": "Yash Patil",
-        "team2": "kshitij Kumar",
+        "date": "21/02/2024",
+        "team1": "Lavesh/Nishant",
+        "team2": "Pratham/irbaaz",
         "timing": "6PM - 9PM"
       },
               {
         "id": 4,
-        "date": "20/02/2024",
-        "team1": "Dhruv Panchal",
-        "team2": "Sujal Mangal",
+        "date": "21/02/2024",
+        "team1": "Yanshu/Tanishq",
+        "team2": "Aryan/Manth",
         "timing": "6PM - 9PM"
       },
               {
         "id": 5,
-        "date": "20/02/2024",
-        "team1": "Anmol Patil",
-        "team2": "Sanat Pareek",
+        "date": "21/02/2024",
+        "team1": "Siddarth/Shrey",
+        "team2": "Dhruvil/Vivek",
         "timing": "6PM - 9PM"
       },
               {
         "id": 6,
-        "date": "20/02/2024",
-        "team1": "Amol Wagh",
-        "team2": "Vansh Jhulka",
+        "date": "21/02/2024",
+        "team1": "Dhruv/Amol",
+        "team2": "Keshav/Aditya",
         "timing": "6PM - 9PM"
       },
               {
         "id": 7,
-        "date": "20/02/2024",
-        "team1": "Tanishq Sharma",
-        "team2": "Ashutosh Singh",
+        "date": "21/02/2024",
+        "team1": "Yash/Om",
+        "team2": "Nimit/Sujal",
         "timing": "6PM - 9PM"
       },
               {
         "id": 8,
-        "date": "20/02/2024",
-        "team1": "Amit Upadhyay",
-        "team2": "Om Patil",
+        "date": "21/02/2024",
+        "team1": "Amrit/Ridhaan",
+        "team2": "Aryan/Chetan",
         "timing": "6PM - 9PM"
       },
               {
         "id": 9,
-        "date": "20/02/2024",
-        "team1": "Vipul Bhatia",
-        "team2": "Mukund Rajpurohit",
+        "date": "21/02/2024",
+        "team1": "Vipul/Parth",
+        "team2": "Kunj/Aayush",
         "timing": "6PM - 9PM"
       },
               {
@@ -69,42 +69,8 @@
         "team1": "Owais Bubere",
         "team2": "Devansh Agarwal",
         "timing": "6PM - 9PM"
-      },
-      {
-        "id": 11,
-        "date": "20/02/2024",
-        "team1": "Om Shah",
-        "team2": "Mansoor",
-        "timing": "6PM - 9PM"
-      },
-      {
-        "id": 12,
-        "date": "20/02/2024",
-        "team1": "Krish Juneja",
-        "team2": "Aryan Joshi",
-        "timing": "6PM - 9PM"
-      },
-      {
-        "id": 13,
-        "date": "20/02/2024",
-        "team1": "Sujal Pamula",
-        "team2": "Pratham Bagora",
-        "timing": "6PM - 9PM"
-      },
-      {
-        "id": 14,
-        "date": "20/02/2024",
-        "team1": "Mangesh Chavan",
-        "team2": "Ritvik",
-        "timing": "6PM - 9PM"
-      },
-      {
-        "id": 15,
-        "date": "20/02/2024",
-        "team1": "Varun Dasari",
-        "team2": "Vaidik Nandwana",
-        "timing": "6PM - 9PM"
       }
+      
     ],
     "standings": [
       {
