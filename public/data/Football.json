@@ -20,7 +20,7 @@
         "team1": "B-Tech AIML 2nd Year",
         "team2": "B-Tech CE 2nd Year",
         "timing": "5:00PM - 7:30PM"
-      },
+      }
       
     ],
     "standings": [
@@ -37,6 +37,6 @@
         "team1": "MBA TECH DS 2nd Year",
         "team2": "B-Tech AIML 3rd Year",
         "Winner": "B-Tech AIML 3rd Year" 
-      },
+      }
     ]
   }
