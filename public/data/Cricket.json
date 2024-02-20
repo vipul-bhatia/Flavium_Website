@@ -2,17 +2,34 @@
     "schedule": [
      {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Boys MBA.Tech CE 2nd Year",
-        "team2": "Boys B.Tech CE 2nd Year",
+        "date": "21/02/2024",
+        "team1": "Boys MBA.Tech CE 3rd Year",
+        "team2": "Boys B.Tech CS 1st Year",
         "timing": "5:00PM - 6:30PM"
       },
      {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Boys B.Tech CE 3rd Year",
-        "team2": "Boys B.Tech IT 1st Year",
+        "date": "21/02/2024",
+        "team1": "Boys B.Tech CS 2nd Year",
+        "team2": "Boys MBA-Tech CE 1st Year",
         "timing": "5:00PM - 6:30PM"
       }
+    ],
+    "standings": [
+      {
+        "id": 1,
+        "date": "20/02/2024",
+        "team1": "MBA Tech CE 2nd Yr",
+        "team2": "B-Tech CE 2nd Yr",
+        "Winner": "MBA Tech CE 2nd Yr" 
+      },
+      {
+        "id": 2,
+        "date": "20/02/2024",
+        "team1": "B-Tech CE 3rd Yr",
+        "team2": "B-Tech IT 1st Yr",
+        "Winner": "B-Tech CE 3rd Yr" 
+      },
+    
     ]
   }
