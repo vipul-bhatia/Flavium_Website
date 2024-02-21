@@ -130,67 +130,81 @@
     "standings": [
       {
         "id": 1,
-        "date": "19/02/2024",
-        "team1": "Charul",
-        "team2": "Suhani",
-        "Winner": "Charul" 
+        "date": "20/02/2024",
+        "team1": "Purushottam",
+        "team2": "Dhananjay Khairnar",
+        "Winner": "Purushottam" 
       },
       {
         "id": 2,
-        "date": "19/02/2024",
-        "team1": "Aditya Raut",
-        "team2": "Anuj Sood",
-        "Winner": "Aditya Raut" 
+        "date": "20/02/2024",
+        "team1": "Lokesh Patil",
+        "team2": "Vidit Jain",
+        "Winner": "Vidit Jain" 
       },
       {
         "id": 3,
-        "date": "19/02/2024",
-        "team1": "Ritu Sharma",
-        "team2": "Deshna Sancheti",
-        "Winner": "Deshna Sancheti" 
+        "date": "20/02/2024",
+        "team1": "Navinnya",
+        "team2": "Ridhima",
+        "Winner": "Ridhima" 
       },
       {
         "id": 4,
-        "date": "19/02/2024",
-        "team1": "Ayush & Yash",
-        "team2": "Aditya & Vidot",
-        "Winner": "Ayush & Yash" 
+        "date": "20/02/2024",
+        "team1": "Parth Sharma",
+        "team2": "Vanshaj",
+        "Winner": "Parth Sharma" 
       },
       {
         "id": 5,
-        "date": "19/02/2024",
-        "team1": "Aryan Pastagia",
-        "team2": "Dhruv Singh",
-        "Winner": "Aryan Pastagia" 
+        "date": "20/02/2024",
+        "team1": "Manvi Mehta",
+        "team2": "Sakshi",
+        "Winner": "Manvi Mehta" 
       },
       
       {
         "id": 6,
-        "date": "19/02/2024",
-        "team1": "Nikhil Jain",
-        "team2": "Adarsh Deep",
-        "Winner": "Adarsh Deep" 
+        "date": "20/02/2024",
+        "team1": "Kavya Gandotra",
+        "team2": "Abhinav Jindal",
+        "Winner": "Abhinav Jindal" 
       },
       {
         "id": 7,
-        "date": "19/02/2024",
-        "team1": "Kavya & Sanyam",
-        "team2": "Devesh & Pranav",
-        "Winner": "Kavya & Sanyam" 
+        "date": "20/02/2024",
+        "team1": "Vanshika Bansil",
+        "team2": "Maitreyee Dube",
+        "Winner": "Matreyee" 
       },
       {
         "id": 8,
-        "date": "19/02/2024",
-        "team1": "Ayush Sonawane",
-        "team2": "Pranamya Waddin",
-        "Winner": "Pranamya Waddin" 
+        "date": "20/02/2024",
+        "team1": "Khushnuma",
+        "team2": "Niyati",
+        "Winner": "Niyati" 
       },
       {
         "id": 9,
-        "date": "19/02/2024",
-        "team1": "Aditya Shinkar",
-        "team2": "Ajaml Parkar",
-        "Winner": "Aditya Shinkar" 
+        "date": "20/02/2024",
+        "team1": "Mugdha",
+        "team2": "Shreya Shah",
+        "Winner": "Shreya Shah" 
+      },
+        {
+        "id": 10,
+        "date": "20/02/2024",
+        "team1": "Bharat",
+        "team2": "Sharvan Khedkar",
+        "Winner": "Bharat" 
+      },
+        {
+        "id":11,
+        "date": "20/02/2024",
+        "team1": "Soham",
+        "team2": "Piyush",
+        "Winner": "Soham" 
       }
     ]
    
