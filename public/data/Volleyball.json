@@ -2,33 +2,33 @@
     "schedule": [
       {
         "id": 1,
-        "date": "21/02/2024",
-        "team1": "Girls 1st Year",
-        "team2": "Girls 2nd Year",
+        "date": "22/02/2024",
+        "team1": "MBA TECH 2nd Year",
+        "team2": "MBA TECH 1st Year",
         "timing": "7:00PM - 9:00PM"
       },
       {
         "id": 2,
-        "date": "21/02/2024",
-        "team1": "Boys MBA.Tech CE 3rd Year",
-        "team2": "Boys BTech-IT 2nd year",
+        "date": "22/02/2024",
+        "team1": "B-Tech CS 3rd 3rd Year",
+        "team2": "Boys BTech-IT 3rd year",
         "timing": "7:00PM - 9:00PM"
       }
     ],
     "standings": [
       {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Boys B.Tech CE 2nd Year",
-        "team2": "Boys B.Tech CE 1st Year",
-        "Winner": "Boys B.Tech CE 2nd Year" 
+        "date": "21/02/2024",
+        "team1": "Girls 2nd Year",
+        "team2": "Girls 1st Year",
+        "Winner": "Girls Year" 
       },
       {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Boys B-Tech AIML 2nd Year",
-        "team2": "Boys B-Tech IT 1st Year",
-        "Winner": "Boys B.Tech IT 1st Year"
+        "date": "21/02/2024",
+        "team1": "MBA Tech 3rd Year",
+        "team2": "B-Tech IT 2nd Year",
+        "Winner": "MBA Tech IT 3rd Year"
       }
     ]
   }
