@@ -2,16 +2,16 @@
     "schedule": [
       {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Boys BTech-CE 2nd year",
-        "team2": "Boys BTech-CE 1st year",
+        "date": "21/02/2024",
+        "team1": "Girls 1st Year",
+        "team2": "Girls 2nd Year",
         "timing": "7:00PM - 9:00PM"
       },
       {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Boys BTech-AIML 2nd year",
-        "team2": "Boys BTech-IT 1st year",
+        "date": "21/02/2024",
+        "team1": "Boys MBA.Tech CE 3rd Year",
+        "team2": "Boys BTech-IT 2nd year",
         "timing": "7:00PM - 9:00PM"
       }
     ],
