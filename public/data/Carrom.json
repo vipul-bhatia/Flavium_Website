@@ -2,167 +2,147 @@
     "schedule": [
       {
         "id": 1,
-        "date": "21/02/2024",
-        "team1": "Krish/Paris",
-        "team2": "Arjun/Viraj",
+        "date": "22/02/2024",
+        "team1": "Manth",
+        "team2": "Dhruv",
         "timing": "6PM - 9PM"
       },
            {
         "id": 2,
-        "date": "21/02/2024",
-        "team1": "Varun/Sujal",
-        "team2": "Akash/Sanat",
+        "date": "22/02/2024",
+        "team1": "Ivan",
+        "team2": "Harshit",
         "timing": "6PM - 9PM"
       },
               {
         "id": 3,
-        "date": "21/02/2024",
-        "team1": "Lavesh/Nishant",
-        "team2": "Pratham/irbaaz",
+        "date": "22/02/2024",
+        "team1": "Devansh",
+        "team2": "Vipul",
         "timing": "6PM - 9PM"
       },
               {
         "id": 4,
-        "date": "21/02/2024",
-        "team1": "Yanshu/Tanishq",
-        "team2": "Aryan/Manth",
+        "date": "22/02/2024",
+        "team1": "Tanishq",
+        "team2": "Tanish",
         "timing": "6PM - 9PM"
       },
               {
         "id": 5,
-        "date": "21/02/2024",
-        "team1": "Siddarth/Shrey",
-        "team2": "Dhruvil/Vivek",
+        "date": "22/02/2024",
+        "team1": "Ram",
+        "team2": "Anmol",
         "timing": "6PM - 9PM"
       },
               {
         "id": 6,
-        "date": "21/02/2024",
-        "team1": "Dhruv/Amol",
-        "team2": "Keshav/Aditya",
+        "date": "22/02/2024",
+        "team1": "Vivek",
+        "team2": "Krish",
         "timing": "6PM - 9PM"
       },
               {
         "id": 7,
-        "date": "21/02/2024",
-        "team1": "Yash/Om",
-        "team2": "Nimit/Sujal",
+        "date": "22/02/2024",
+        "team1": "Yanshu",
+        "team2": "Tanishq",
         "timing": "6PM - 9PM"
       },
               {
         "id": 8,
-        "date": "21/02/2024",
-        "team1": "Amrit/Ridhaan",
-        "team2": "Aryan/Chetan",
+        "date": "22/02/2024",
+        "team1": "Lavesh",
+        "team2": "Mangesh",
         "timing": "6PM - 9PM"
       },
               {
         "id": 9,
-        "date": "21/02/2024",
-        "team1": "Vipul/Parth",
-        "team2": "Kunj/Aayush",
+        "date": "22/02/2024",
+        "team1": "Amol",
+        "team2": "Kunj",
         "timing": "6PM - 9PM"
       },
               {
         "id": 10,
-        "date": "20/02/2024",
-        "team1": "Owais Bubere",
-        "team2": "Devansh Agarwal",
+        "date": "22/02/2024",
+        "team1": "Harsh",
+        "team2": "Varun",
+        "timing": "6PM - 9PM"
+      },
+           {
+        "id": 11,
+        "date": "22/02/2024",
+        "team1": "Nishant",
+        "team2": "Om",
+        "timing": "6PM - 9PM"
+      },
+           {
+        "id": 12,
+        "date": "22/02/2024",
+        "team1": "Yash",
+        "team2": "Pamula",
+        "timing": "6PM - 9PM"
+      },
+           {
+        "id": 13,
+        "date": "22/02/2024",
+        "team1": "Om",
+        "team2": "Priyanshu",
         "timing": "6PM - 9PM"
       }
+        
       
     ],
     "standings": [
       {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Harsh Salunke",
-        "team2": "Yash Budhia",
-        "Winner": "Harsh Salunke" 
+        "date": "21/02/2024",
+        "team1": "Krish/Paris",
+        "team2": "Arjun/Viraj",
+        "Winner": "Arjun/Viraj" 
       },
       {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Nishant",
-        "team2": "Irbaaz Patel",
-        "Winner": "Nishant"
+        "date": "21/02/2024",
+        "team1": "Varun/Sujal",
+        "team2": "Akash/Sanat",
+        "Winner": "Akash/Sanat"
       },
       {
         "id": 3,
-        "date": "20/02/2024",
-        "team1": "Yash Patil",
-        "team2": "Kshitij Kumar",
-        "Winner": "Yash Patil"
+        "date": "21/02/2024",
+        "team1": "Yanshu/Tanishq",
+        "team2": "Aryan/Math",
+        "Winner": "Yanshu/Tanishq"
       },
       {
         "id": 4,
-        "date": "20/02/2024",
-        "team1": "Dhruv Panchal",
-        "team2": "Sujal Mangal",
+        "date": "21/02/2024",
+        "team1": "Siddarth/Shrey",
+        "team2": "Harshit/Vivek",
         "Winner": "Dhruv Panchal"
       },
       {
         "id": 5,
-        "date": "20/02/2024",
-        "team1": "Anmol Patil",
-        "team2": "Sanat Pareek",
-        "Winner": "Anmol Patil"
+        "date": "21/02/2024",
+        "team1": "Yash/OM",
+        "team2": "Nimit/Sujal",
+        "Winner": "Yash/Om"
       },
       {
         "id": 6,
-        "date": "20/02/2024",
-        "team1": "Amol Wagh",
-        "team2": "Vansh Jhulka",
-        "Winner": "Amol Wagh"
+        "date": "21/02/2024",
+        "team1": "Amrit/Ridhaan",
+        "team2": "Aryan/Chetan",
+        "Winner": "Amrit/Ridhaan"
       },
       {
         "id": 7,
-        "date": "20/02/2024",
-        "team1": "Tanishq Sharma",
-        "team2": "Ashutosh Singh",
-        "Winner": "Tanishq Sharma"
-      },
-      {
-        "id": 8,
-        "date": "20/02/2024",
-        "team1": "Amit Upadhyay",
-        "team2": "Om Patil",
-        "Winner": "Om Patil"
-      },
-      {
-        "id": 9,
-        "date": "20/02/2024",
-        "team1": "Vipul Bhatia",
-        "team2": "Mukund",
-        "Winner": "Vipul Bhatia"
-      },
-      {
-        "id": 10,
-        "date": "20/02/2024",
-        "team1": "Owais",
-        "team2": "Devansh",
-        "Winner": "Devansh"
-      },
-      {
-        "id": 11,
-        "date": "20/02/2024",
-        "team1": "Om Shah",
-        "team2": "Mansoor",
-        "Winner": "Om Shah"
-      },
-      {
-        "id": 12,
-        "date": "20/02/2024",
-        "team1": "Krish Juneja",
-        "team2": "Aryan Joshi",
-        "Winner": "Krish Juneja"
-      },
-      {
-        "id": 13,
-        "date": "20/02/2024",
-        "team1": "Varun Dasari",
-        "team2": "Vaidik Nandwana",
-        "Winner": "Varun Dasari"
+        "date": "21/02/2024",
+        "team1": "Parth/Vipul",
+        "team2": "Kunj/Aayush",
+        "Winner": "Parth/Vipul"
       }
         
     ]
