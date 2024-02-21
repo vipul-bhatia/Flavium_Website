@@ -2,100 +2,65 @@
     "schedule": [
      {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Abhinav Sharma",
-        "team2": "Krish Mittal",
+        "date": "21/02/2024",
+        "team1": "Aditya Shaju & Vaibhav Gujrathi",
+        "team2": "Jash Desai & Utkarsh",
         "timing": "6PM - 9PM"
       },
-      {
+         {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Prakhar Saxena",
-        "team2": "Soumy Raghuvanshi",
+        "date": "21/02/2024",
+        "team1": "Rushikesh Ghuge & Manav Goyal",
+        "team2": "Divyanshu & Tanishq",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 3,
-        "date": "20/02/2024",
-        "team1": "Rachit Mistry",
-        "team2": "Varun Dasari",
+        "date": "21/02/2024",
+        "team1": "Mrinal Verma & Amit",
+        "team2": "Param Joshi & Yash Budhia",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 4,
-        "date": "20/02/2024",
-        "team1": "Divanshu Uppal",
-        "team2": "Sujal Mangal",
+        "date": "21/02/2024",
+        "team1": "Bhargav & Aaditya",
+        "team2": "Krish Mittal & Jenish Mehta",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 5,
-        "date": "20/02/2024",
-        "team1": "Ninad Chobe",
-        "team2": "Charyan Sharma",
+        "date": "21/02/2024",
+        "team1": "Madhav Gupta & Mayank Agarwal",
+        "team2": "Arnab & Srikar",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 6,
-        "date": "20/02/2024",
-        "team1": "Tanshiq Rajpal",
-        "team2": "Manjot Singh",
+        "date": "21/02/2024",
+        "team1": "Rachit Mistry & Divanshu Uppal",
+        "team2": "Aniket Akade & Ayush Sonawane",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 7,
-        "date": "20/02/2024",
-        "team1": "Mohit Patil",
-        "team2": "Aniket Akade",
+        "date": "21/02/2024",
+        "team1": "Viraj Kulkarni & Neel Madhav",
+        "team2": "Yash Shah & Amrit Raj",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 8,
-        "date": "20/02/2024",
-        "team1": "Ajmal Parkar",
-        "team2": "Divyanshu Kumbe",
+        "date": "21/02/2024",
+        "team1": "Abeer Nair & Rohit Gandhi",
+        "team2": "Charyan Sharma & Vedang Bhusari",
         "timing": "6PM - 9PM"
       },
-           {
+         {
         "id": 9,
-        "date": "20/02/2024",
-        "team1": "Aryan Agarwal",
-        "team2": "Shobhit Vasaniya",
-        "timing": "6PM - 9PM"
-      },
-           {
-        "id": 10,
-        "date": "20/02/2024",
-        "team1": "Siddhant Agarwal",
-        "team2": "Srikar M",
-        "timing": "6PM - 9PM"
-      },
-           {
-        "id": 11,
-        "date": "20/02/2024",
-        "team1": "Tanishq Nandwana",
-        "team2": "Vedant Khandelwal",
-        "timing": "6PM - 9PM"
-      },
-           {
-        "id": 12,
-        "date": "20/02/2024",
-        "team1": "Yash Gehlot",
-        "team2": "Vedang Bhusari",
-        "timing": "6PM - 9PM"
-      },
-           {
-        "id": 13,
-        "date": "20/02/2024",
-        "team1": "Arnab",
-        "team2": "Harshit Jain",
-        "timing": "6PM - 9PM"
-      },
-           {
-        "id": 14,
-        "date": "20/02/2024",
-        "team1": "Hard Patel",
-        "team2": "Viraj Kulkarni",
+        "date": "21/02/2024",
+        "team1": "Himanshu Pawar & Siddesh Jadhav",
+        "team2": "Shobhit Vasaniya & Harshit Jain",
         "timing": "6PM - 9PM"
       }
         
