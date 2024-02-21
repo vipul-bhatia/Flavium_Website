@@ -18,17 +18,17 @@
     "standings": [
       {
         "id": 1,
-        "date": "19/02/2024",
-        "team1": "B-Tech CE 3rd Year",
-        "team2": "BTech AIML 1st Year",
-        "Winner": "B-TECH CE 3rd Year" 
+        "date": "20/02/2024",
+        "team1": "Boys B.Tech CE 2nd Year",
+        "team2": "Boys B.Tech CE 1st Year",
+        "Winner": "Boys B.Tech CE 2nd Year" 
       },
       {
         "id": 2,
-        "date": "19/02/2024",
-        "team1": "B-Tech CS 2nd Year",
-        "team2": "B-Tech CS 1st Year",
-        "Winner": "B-Tech CS 2nd Year"
+        "date": "20/02/2024",
+        "team1": "Boys B-Tech AIML 2nd Year",
+        "team2": "Boys B-Tech IT 1st Year",
+        "Winner": "Boys B.Tech IT 1st Year"
       }
     ]
   }
