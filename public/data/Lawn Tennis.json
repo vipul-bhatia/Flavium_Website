@@ -2,105 +2,71 @@
     "schedule": [
      {
         "id": 1,
-        "date": "21/02/2024",
-        "team1": "Ansh ",
-        "team2": "Bhavya",
+        "date": "22/02/2024",
+        "team1": "Riju ",
+        "team2": "Rashi",
         "timing": "6:00PM - 9:00PM"
       },
 
         {
         "id": 2,
-        "date": "21/02/2024",
-        "team1": "Siddarth",
-        "team2": "Gurjot",
-        "timing": "6:00PM - 9:00PM"
-      },
-      {
-        "id": 3,
-        "date": "21/02/2024",
-        "team1": "Vanshika ",
-        "team2": "Riju Patidar",
-        "timing": "6:00PM - 9:00PM"
-      },
-      {
-        "id": 4,
-        "date": "21/02/2024",
-        "team1": "Raghav",
-        "team2": "Sham Dalal",
-        "timing": "6:00PM - 9:00PM"
-      },
-      {
-        "id": 5,
-        "date": "21/02/2024",
-        "team1": "Charyan & Vedant",
-        "team2": "Soham & Vansh",
-        "timing": "6:00PM - 9:00PM"
-      },
-      {
-        "id": 6,
-        "date": "21/02/2024",
-        "team1": "Ansh & Surve",
-        "team2": "Vedant & Aditya",
-        "timing": "6:00PM - 9:00PM"
-      },
-      {
-        "id": 7,
-        "date": "21/02/2024",
-        "team1": "Raghav/Ajmal ",
-        "team2": "Deyan/Mann",
+        "date": "22/02/2024",
+        "team1": "Srikar/Arnav",
+        "team2": "Raghav/Lokesh",
         "timing": "6:00PM - 9:00PM"
       }
+    
     ],
     
     "standings": [
       {
         "id": 1,
-        "date": "20/02/2024",
-        "team1": "Ansh/Surve",
-        "team2": "Takshil/Ayush",
-        "Winner": "Ansh/Surve" 
+        "date": "21/02/2024",
+        "team1": "Ansh",
+        "team2": "Bhavya",
+        "Winner": "Ansh" 
       },
       {
         "id": 2,
-        "date": "20/02/2024",
-        "team1": "Srikar",
-        "team2": "Vansh Bansal",
-        "Winner": "Srikar" 
+        "date": "21/02/2024",
+        "team1": "Siddarth",
+        "team2": "Gurujot",
+        "Winner": "Siddarth" 
       },
       {
         "id": 3,
-        "date": "20/02/2024",
-        "team1": "Rashi",
+        "date": "21/02/2024",
+        "team1": "Riju",
         "team2": "Vanshika ",
-        "Winner": "Rashi" 
+        "Winner": "Riju" 
       },
       {
         "id": 4,
-        "date": "20/02/2024",
-        "team1": "Arnab/Rishi",
-        "team2": "Hrash/Atharva",
-        "Winner": "Arnab/Rishi" 
+        "date": "21/02/2024",
+        "team1": "Charyan/Vedant",
+        "team2": "Soham/Vansh",
+        "Winner": "Charyan/Vedant" 
       },
       {
         "id": 5,
-        "date": "20/02/2024",
-        "team1": "Yash",
-        "team2": "Ronit",
-        "Winner": "Yash" 
+        "date": "21/02/2024",
+        "team1": "Ansh/Surve",
+        "team2": "Vedant/Aditya",
+        "Winner": "Ansh/Surve" 
       },
       {
         "id": 6,
-        "date": "20/02/2024",
-        "team1": "Vaibhav/Bhavya",
-        "team2": "Ansh G/Ayush",
-        "Winner": "Vaibhav/Bhavya" 
+        "date": "21/02/2024",
+        "team1": "Raghav/Ajmal",
+        "team2": "Deyan/Mann",
+        "Winner": "Raghav/Ajmal" 
       },
       {
         "id": 7,
-        "date": "20/02/2024",
-        "team1": "Mohit",
-        "team2": "Atharva ",
-        "Winner": "Mohit" 
+        "date": "21/02/2024",
+        "team1": "Harsh",
+        "team2": "Vedant ",
+        "Winner": "Harsh" 
       }
     ]
   }
