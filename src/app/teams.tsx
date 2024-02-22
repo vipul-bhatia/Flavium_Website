@@ -21,6 +21,7 @@ const Teams = () => {
     { id: 17, name: 'Core', location: 'B Tech', imageUrl: '/17.jpg' },
     { id: 18, name: 'Core', location: 'B Tech', imageUrl: '/18.jpg' },
     { id: 19, name: 'Core', location: 'B Tech', imageUrl: '/19.jpg' },
+      { id: 20, name: 'Core', location: 'MBA Tech', imageUrl: '/20.jpg' }
   ];
 
   return (
