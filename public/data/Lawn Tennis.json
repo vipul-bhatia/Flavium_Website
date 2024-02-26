@@ -2,72 +2,41 @@
     "schedule": [
      {
         "id": 1,
-        "date": "22/02/2024",
-        "team1": "Riju ",
-        "team2": "Rashi",
+        "date": "26/02/2024",
+        "team1": "Yash & Param",
+        "team2": "Achyut & Rishi",
         "timing": "6:00PM - 9:00PM"
       },
 
         {
         "id": 2,
-        "date": "22/02/2024",
-        "team1": "Srikar/Arnav",
-        "team2": "Raghav/Lokesh",
+        "date": "26/02/2024",
+        "team1": "Ansh",
+        "team2": "Raghav Chaturvedi",
+        "timing": "6:00PM - 9:00PM"
+      },
+          {
+        "id": 3,
+        "date": "26/02/2024",
+        "team1": "Siddharth Surve",
+        "team2": "Mohit Patil",
+        "timing": "6:00PM - 9:00PM"
+      },
+          {
+        "id": 4,
+        "date": "26/02/2024",
+        "team1": "Srikar",
+        "team2": "Vaibhav",
+        "timing": "6:00PM - 9:00PM"
+      },
+          {
+        "id": 5,
+        "date": "26/02/2024",
+        "team1": "Yash",
+        "team2": "Harsh",
         "timing": "6:00PM - 9:00PM"
       }
     
-    ],
-    
-    "standings": [
-      {
-        "id": 1,
-        "date": "21/02/2024",
-        "team1": "Ansh",
-        "team2": "Bhavya",
-        "Winner": "Ansh" 
-      },
-      {
-        "id": 2,
-        "date": "21/02/2024",
-        "team1": "Siddarth",
-        "team2": "Gurujot",
-        "Winner": "Siddarth" 
-      },
-      {
-        "id": 3,
-        "date": "21/02/2024",
-        "team1": "Riju",
-        "team2": "Vanshika ",
-        "Winner": "Riju" 
-      },
-      {
-        "id": 4,
-        "date": "21/02/2024",
-        "team1": "Charyan/Vedant",
-        "team2": "Soham/Vansh",
-        "Winner": "Charyan/Vedant" 
-      },
-      {
-        "id": 5,
-        "date": "21/02/2024",
-        "team1": "Ansh/Surve",
-        "team2": "Vedant/Aditya",
-        "Winner": "Ansh/Surve" 
-      },
-      {
-        "id": 6,
-        "date": "21/02/2024",
-        "team1": "Raghav/Ajmal",
-        "team2": "Deyan/Mann",
-        "Winner": "Raghav/Ajmal" 
-      },
-      {
-        "id": 7,
-        "date": "21/02/2024",
-        "team1": "Harsh",
-        "team2": "Vedant ",
-        "Winner": "Harsh" 
-      }
     ]
   }
   
