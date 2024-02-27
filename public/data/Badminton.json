@@ -2,211 +2,138 @@
     "schedule": [
       {
         "id": 1,
-        "date": "21/02/2024",
-        "team1": "Kunj Desai",
-        "team2": "Ronit",
+        "date": "27/02/2024",
+        "team1": "Niyati",
+        "team2": "Ridhimma",
         "timing": "6:30PM - 7:30PM"
       },
       {
         "id": 2,
-        "date": "21/02/2024",
-        "team1": "Krish Juneja",
-        "team2": "Utkarsh",
+        "date": "27/02/2024",
+        "team1": "Samyak",
+        "team2": "Ninad",
         "timing": "6:30PM - 7:30PM"
       },
           {
         "id": 3,
-        "date": "21/02/2024",
-        "team1": "Utkarsh & Kshitij",
-        "team2": "Bharat & Himanshu",
+        "date": "27/02/2024",
+        "team1": "Keshav & Diya",
+        "team2": "Aditya & Shrawani",
         "timing": "6:30PM - 7:30PM"
       },
       {
         "id": 4,
-        "date": "21/02/2024",
-        "team1": "Shrawani",
-        "team2": "Manasvi",
+        "date": "27/02/2024",
+        "team1": "Maitryee",
+        "team2": "Jasbeen",
         "timing": "5:30PM - 6:30PM"
       },
           {
         "id": 5,
-        "date": "21/02/2024",
-        "team1": "Priyal Jain",
-        "team2": "Niti Sharma",
+        "date": "27/02/2024",
+        "team1": "Deshna",
+        "team2": "Khushi",
         "timing": "6:30PM - 7:30PM"
       },
           {
         "id": 6,
-        "date": "21/02/2024",
-        "team1": "Vishakha",
-        "team2": "Jasbeen",
+        "date": "27/02/2024",
+        "team1": "Samyak & Arnab",
+        "team2": "Anmol & Sagar",
         "timing": "6:30PM - 7:30PM"
       },
           {
         "id": 7,
-        "date": "21/02/2024",
-        "team1": "Abhijit Patil",
-        "team2": "Samyak Padliya",
+        "date": "27/02/2024",
+        "team1": "Mann & Apurva",
+        "team2": "Aditya & Anushka",
         "timing": "7:30PM - 8:30PM"
       },
          {
         "id": 8,
-        "date": "21/02/2024",
+        "date": "27/02/2024",
         "team1": "Apurva",
-        "team2": "Krupali",
+        "team2": "Priyal Jain",
         "timing": "7:30PM - 8:30PM"
       },
          {
         "id": 9,
-        "date": "21/02/2024",
-        "team1": "Abhinav Sharma",
-        "team2": "Sujal Mangal",
-        "timing": "7:30PM - 8:30PM"
-      },
-         {
-        "id": 10,
-        "date": "21/02/2024",
-        "team1": "Mann",
-        "team2": "Soumy",
-        "timing": "7:30PM - 8:30PM"
-      },
-         {
-        "id":11,
-        "date": "21/02/2024",
+        "date": "27/02/2024",
         "team1": "Mann & Abhinav",
         "team2": "Sujal & Pankaj",
         "timing": "7:30PM - 8:30PM"
       },
          {
+        "id": 10,
+        "date": "27/02/2024",
+        "team1": "Dhruvil & Vanshaj",
+        "team2": "Kavya & Sanyam",
+        "timing": "7:30PM - 8:30PM"
+      },
+         {
+        "id":11,
+        "date": "27/02/2024",
+        "team1": "Aditya Shinkar",
+        "team2": "Parth Sharma",
+        "timing": "7:30PM - 8:30PM"
+      },
+         {
         "id": 12,
-        "date": "21/02/2024",
+        "date": "27/02/2024",
         "team1": "Dhruvil",
         "team2": "Devesh Poojary",
         "timing": "7:30PM - 8:30PM"
       },
          {
         "id": 13,
-        "date": "21/02/2024",
-        "team1": "Dhruvil & Vanshaj",
-        "team2": "Aditya & Manav",
+        "date": "27/02/2024",
+        "team1": "Aryan & Keshav",
+        "team2": "Soham & Atharav",
         "timing": "7:30PM - 8:30PM"
       },
          {
         "id": 14,
-        "date": "21/02/2024",
-        "team1": "Parth Sharma",
-        "team2": "Adarshdeep",
+        "date": "27/02/2024",
+        "team1": "Adiya & Riju",
+        "team2": "Bharat & Vanshika",
         "timing": "8:30PM Onwards"
       },
            {
         "id": 15,
-        "date": "21/02/2024",
-        "team1": "Aditya & Riju",
-        "team2": "Samyak & Deshna",
+        "date": "27/02/2024",
+        "team1": "Aditya Raut",
+        "team2": "Aditya Phatangre",
         "timing": "8:30PM Onwards"
       },
            {
         "id": 16,
-        "date": "21/02/2024",
-        "team1": "Aditya & Shrawani",
-        "team2": "Keshav & Diya",
+        "date": "27/02/2024",
+        "team1": "Arnab",
+        "team2": "Kavya Bhargava",
         "timing": "8:30PM Onwards"
       },
       {
         "id": 17,
-        "date": "21/02/2024",
-        "team1": "Aryan Baheti",
-        "team2": "Pranav & Mundra",
+        "date": "27/02/2024",
+        "team1": "Kovid",
+        "team2": "Aryan Baheti",
         "timing": "8:30PM Onwards"
       },
            {
         "id": 18,
-        "date": "21/02/2024",
-        "team1": "Aditya Phatangre",
-        "team2": "Keshav Birla",
+        "date": "27/02/2024",
+        "team1": "Vedant & Mugdha",
+        "team2": "Mahi & Divyanshu",
+        "timing": "8:30PM Onwards"
+      },  {
+        "id": 19,
+        "date": "27/02/2024",
+        "team1": "Vaishnavi",
+        "team2": "Mahi",
         "timing": "8:30PM Onwards"
       }
-    ],
-    "standings": [
-      {
-        "id": 1,
-        "date": "20/02/2024",
-        "team1": "Purushottam",
-        "team2": "Dhananjay Khairnar",
-        "Winner": "Purushottam" 
-      },
-      {
-        "id": 2,
-        "date": "20/02/2024",
-        "team1": "Lokesh Patil",
-        "team2": "Vidit Jain",
-        "Winner": "Vidit Jain" 
-      },
-      {
-        "id": 3,
-        "date": "20/02/2024",
-        "team1": "Navinnya",
-        "team2": "Ridhima",
-        "Winner": "Ridhima" 
-      },
-      {
-        "id": 4,
-        "date": "20/02/2024",
-        "team1": "Parth Sharma",
-        "team2": "Vanshaj",
-        "Winner": "Parth Sharma" 
-      },
-      {
-        "id": 5,
-        "date": "20/02/2024",
-        "team1": "Manvi Mehta",
-        "team2": "Sakshi",
-        "Winner": "Manvi Mehta" 
-      },
-      
-      {
-        "id": 6,
-        "date": "20/02/2024",
-        "team1": "Kavya Gandotra",
-        "team2": "Abhinav Jindal",
-        "Winner": "Abhinav Jindal" 
-      },
-      {
-        "id": 7,
-        "date": "20/02/2024",
-        "team1": "Vanshika Bansil",
-        "team2": "Maitreyee Dube",
-        "Winner": "Matreyee" 
-      },
-      {
-        "id": 8,
-        "date": "20/02/2024",
-        "team1": "Khushnuma",
-        "team2": "Niyati",
-        "Winner": "Niyati" 
-      },
-      {
-        "id": 9,
-        "date": "20/02/2024",
-        "team1": "Mugdha",
-        "team2": "Shreya Shah",
-        "Winner": "Shreya Shah" 
-      },
-        {
-        "id": 10,
-        "date": "20/02/2024",
-        "team1": "Bharat",
-        "team2": "Sharvan Khedkar",
-        "Winner": "Bharat" 
-      },
-        {
-        "id":11,
-        "date": "20/02/2024",
-        "team1": "Soham",
-        "team2": "Piyush",
-        "Winner": "Soham" 
-      }
     ]
+
    
   }
   
