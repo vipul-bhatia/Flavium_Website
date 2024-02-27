@@ -2,120 +2,18 @@
     "schedule": [
       {
         "id": 1,
-        "date": "21/02/2024",
+        "date": "27/02/2024",
         "team1": "Om Shah",
-        "team2": "Kavya Bhargava",
+        "team2": "Gautam Kandalia",
         "timing": "6:45PM - 8:00PM"
       },
 
       {
         "id": 2,
-        "date": "21/02/2024",
-        "team1": "Aditya Shaju",
-        "team2": "Devarsh Choksi",
-        "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 3,
-        "date": "21/02/2024",
+        "date": "27/02/2024",
         "team1": "Abhijeet Borse",
-        "team2": "Yash Patel",
+        "team2": "Hard Patel",
         "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 4,
-        "date": "21/02/2024",
-        "team1": "Rachit Mistry",
-        "team2": "Gaurav Songira",
-        "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 5,
-        "date": "21/02/2024",
-        "team1": "Shobhit Vasaniya",
-        "team2": "Jash B",
-        "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 6,
-        "date": "21/02/2024",
-        "team1": "Aaditya Ghatia",
-        "team2": "Gautam Kundalia",
-        "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 7,
-        "date": "21/02/2024",
-        "team1": "Amit Upadhyay",
-        "team2": "Ridhaan Bharadwaj",
-        "timing": "6:45PM - 8:00PM"
-      },
-      {
-        "id": 8,
-        "date": "21/02/2024",
-        "team1": "Hard Patel",
-        "team2": "Krrish Juneja",
-        "timing": "6:45PM - 8:00PM"
-      }
-      
-    ],
-    "standings": [
-      {
-        "id": 1,
-        "date": "21/02/2024",
-        "team1": "Om",
-        "team2": "Kavya",
-        "Winner": "Kavya" 
-      },
-      {
-        "id": 2,
-        "date": "21/02/2024",
-        "team1": "Aditya",
-        "team2": "Devarsh",
-        "Winner": "Devarsh" 
-      },
-      {
-        "id": 3,
-        "date": "21/02/2024",
-        "team1": "Abhijeet",
-        "team2": "Yash ",
-        "Winner": "Abhijeet" 
-      },
-      {
-        "id": 4,
-        "date": "21/02/2024",
-        "team1": "Rachit",
-        "team2": "Gaurav",
-        "Winner": "Gaurav" 
-      },
-      {
-        "id": 5,
-        "date": "21/02/2024",
-        "team1": "Shobhit",
-        "team2": "Jash B",
-        "Winner": "Jash B" 
-      },
-      {
-        "id": 6,
-        "date": "21/02/2024",
-        "team1": "Gautam Kundalia",
-        "team2": "Aaditya Ghatia",
-        "Winner": "Gautam Kundalia" 
-      },
-      {
-        "id": 7,
-        "date": "21/02/2024",
-        "team1": "Amit Upadhyay",
-        "team2": "Ridhaan ",
-        "Winner": "Ridhaan" 
-      },
-      
-      {
-        "id": 9,
-        "date": "21/02/2024",
-        "team1": "Krrish Juneja",
-        "team2": "Hard Patel ",
-        "Winner": "Hard Patel" 
       }
     ]
   }
